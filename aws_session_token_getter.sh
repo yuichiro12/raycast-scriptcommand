@@ -11,7 +11,7 @@
 
 # Documentation:
 # @raycast.description set session_token in profile using AWS single sign-on
-# @raycast.author mov
+# @raycast.author yuichiro12
 # @raycast.authorURL https://github.com/yuichiro12
 
 aws sso login
